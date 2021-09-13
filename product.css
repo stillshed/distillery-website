@@ -6,6 +6,10 @@ body {
   max-width: 960px;
 }
 
+footer {
+  color: #ffffff;
+}
+
 /*
  * Custom translucent site header
  */
